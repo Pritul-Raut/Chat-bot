@@ -1,0 +1,43 @@
+From Chat Gpt response :
+###
+using chat GPT make web page for restaurant by using HTML and CSS
+###
+
+<html>
+<head>
+  <title>Restaurant Web Page</title>
+  <style type="text/css">
+    body {
+      background-color: #EF3F76;
+      font-family: Arial;
+      margin: 0 auto;
+      padding: 0;
+    }
+    .header {
+      background-color: #312B6C;
+      padding: 20px;
+    }
+    .header h1 {
+      color: #FDEC81;
+      font-size: 2rem;
+      font-weight: bold;
+      margin: 0;
+    }
+    .navigation ul {
+      list-style-type: none;
+      margin: 0 auto;
+      padding: 0;
+    }
+    .navigation li {
+      display: inline-block;
+      padding: 10px;
+    }
+    .navigation a {
+      color: white;
+      font-size: 1rem;
+      text-decoration: none;
+    }
+    .content {
+      padding: 10px;
+    }
+    .content p {
